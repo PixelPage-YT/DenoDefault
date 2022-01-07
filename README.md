@@ -14,5 +14,5 @@ deno run --allow-all --unstable https://deno.land/x/denodefault/mod.ts
 
 > Another Template (e.g. for aqua):
 ```ts
-deno run --allow-all --unstable https://deno.land/x/denodefault/mod.ts -template aqua
+deno run --allow-all --unstable https://deno.land/x/denodefault/mod.ts aqua
 ```

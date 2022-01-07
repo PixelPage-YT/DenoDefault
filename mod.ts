@@ -1,10 +1,9 @@
-import { parse } from "https://deno.land/std/flags/mod.ts";
 import os from "https://deno.land/x/dos@v0.11.0/mod.ts";
 import username from "https://deno.land/x/username/mod.ts";
 
-const args = parse(Deno.args)
-if(args.template){
-    let project = args.template;
+const args = Deno.args
+if(args[0]){
+    let project = args[0];
     if(project == "aqua"){
         console.log("[Info] Template: Aqua")
         if(os.platform() == "darwin"){
