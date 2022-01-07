@@ -16,3 +16,5 @@ deno run --allow-all https://deno.land/x/DenoDefault/mod.ts
 ```ts
 deno run --allow-all https://deno.land/x/DenoDefault/mod.ts -template aqua
 ```
+
+You can also Download the executable "denodefault"
