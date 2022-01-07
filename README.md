@@ -9,10 +9,10 @@
 ### Using
 > Create a default Template:
 ```ts
-deno run --allow-all https://deno.land/x/DenoDefault/mod.ts
+deno run --allow-all --unstable https://deno.land/x/denodefault/mod.ts
 ```
 
 > Another Template (e.g. for aqua):
 ```ts
-deno run --allow-all https://deno.land/x/DenoDefault/mod.ts -template aqua
+deno run --allow-all --unstable https://deno.land/x/denodefault/mod.ts -template aqua
 ```
