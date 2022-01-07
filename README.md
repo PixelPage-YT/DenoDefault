@@ -16,3 +16,8 @@ deno run --allow-all --unstable https://deno.land/x/denodefault/mod.ts
 ```ts
 deno run --allow-all --unstable https://deno.land/x/denodefault/mod.ts aqua
 ```
+
+### Templates
+- Default
+- Aqua (aqua)
+- Harmony (harmony)
