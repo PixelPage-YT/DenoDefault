@@ -17,6 +17,11 @@ deno run --allow-all --unstable https://deno.land/x/denodefault/mod.ts
 deno run --allow-all --unstable https://deno.land/x/denodefault/mod.ts aqua
 ```
 
+> Download DenoDefault:
+```sh
+deno install --unstable --allow-all https://deno.land/x/denodefault@v1.0.4/mod.ts
+```
+
 ### Templates
 - Default
 - Aqua (aqua)
